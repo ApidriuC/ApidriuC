@@ -1,4 +1,4 @@
-# CONSOLE.WRITELINE("HOLA MUNDO");
+# System.out.println(“HOLA MUNDO”);
 
 - 👋 Hi, I’m @ApidriuC
 - 👀 I’m interested in Cibersecurity, I stand out in the programming language java and python...
