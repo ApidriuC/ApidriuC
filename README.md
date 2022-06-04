@@ -10,7 +10,9 @@ Hola 👋, mi nombre es Andrés Felipe Londoño Campos, estudiante de Ingenierí
   
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
  
-<a target="_blank" rel="noopener noreferrer" href="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://www.jairogarciarincon.com/img/clases/1325.jpg)"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
+  
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://www.jairogarciarincon.com/img/clases/1325.jpg)" style="max-width: 100%;"></a>
+  
 </div>
   
 <div align="center">
