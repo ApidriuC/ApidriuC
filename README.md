@@ -22,3 +22,6 @@
 | ------------- | ------------- |
   
 </div>
+<hr>
+
+- :point_right: [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/)
