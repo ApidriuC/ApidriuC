@@ -7,7 +7,7 @@ Hola 👋, mi nombre es Andrés Felipe Londoño Campos, estudiante de Ingenierí
 <table align="center">
   <thead >
     <tr>
-      <th padding_top="10px">
+      <th align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApidriuC&count_private=true&show_icons=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
         
