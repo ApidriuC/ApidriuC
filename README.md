@@ -8,7 +8,6 @@ Hola 👋, mi nombre es Andrés Felipe Londoño Campos, estudiante de Ingenierí
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApidriuC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApidriuC&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ApidriuC/ApidriuC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
