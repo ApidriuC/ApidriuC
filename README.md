@@ -5,6 +5,8 @@ Hola 👋, mi nombre es Andrés Felipe Londoño Campos, estudiante de Ingenierí
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApidriuC)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApidriuC&hide=contribs,prs)
 
 <!---
 ApidriuC/ApidriuC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
