@@ -1,6 +1,5 @@
 <h1 align="center"> System.out.println(“HOLA MUNDO”);  
   <br>💻
-  <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=ApidriuC&label=Profile%20views&color=0e75b6&style=flat" alt="ApidriuC" /> </p>
 </h1>
 
 <p>
