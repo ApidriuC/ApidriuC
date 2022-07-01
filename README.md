@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px;"> System.out.println(“HOLA MUNDO”);  
+<p align="center" font-size="30px"> System.out.println(“HOLA MUNDO”);  
 </p>
 
 # <img src="./octogato.png" width=15% align=right /> 👋 Hola, Andrés Felipe Londoño Campos 💻 
