@@ -37,7 +37,7 @@
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
 </p>
 
-<p align="center"> Mi Portafolio
+<p align="center">
     <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">
         <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
     height="50">
