@@ -16,18 +16,18 @@
 <br>
 
 <div align="center">
-<code><img height="50" src="https://www.gmkfreelogos.com/logos/J/img/Java-3.gif"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw"></code>
-<code><img height="50" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ"></code>
-<code><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
-<code><img height="50" src="https://distreau.com/github.svg"></code>  
+<img height="50" src="https://www.gmkfreelogos.com/logos/J/img/Java-3.gif">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="50" src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw">
+<img height="50" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ">
+<img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+<img height="50" src="https://distreau.com/github.svg"> 
   </div>
   <div align="center">
-<code><img height="50" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png"></code> 
-  <code><img height="50" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667"></code> 
+<img height="50" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png"> 
+<img height="50" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667">
   
 </div>
 <br>
