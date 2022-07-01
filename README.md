@@ -25,6 +25,11 @@
 </div>
 <hr>
 
+<p align="center">
+<!--SNAKE-->
+   <img src="https://github.com/joseluisgs/joseluisgs/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 ## Contacto 📩
 
 - [Portafolio Web](https://portafolio-andres-londono.netlify.app/)
