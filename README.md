@@ -27,7 +27,7 @@
 
 <p align="center">
 <!--SNAKE-->
-   <img src="https://github.com/ApidriuC/ApidriuC/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/joseluisgs/ApidriuC/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ## Contacto 📩
