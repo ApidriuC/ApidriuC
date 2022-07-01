@@ -1,6 +1,7 @@
+<!--HEADER-->
 <h1 align="center"> System.out.println(“HOLA MUNDO”);  
 </h1>
-
+<!--VISITS-->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ApidriuC&label=Profile%20views&color=42b983&style=flat" alt="ApidriuC-github" />
   <img src="https://img.shields.io/github/followers/ApidriuC?style=social" alt="ApidriuC-github" />
@@ -9,20 +10,20 @@
 > “Programa siempre tu código como si el tipo que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. Martin Goldin
 
 <hr>
-
+<!--INTRODUCTION-->
 # <img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right /> 👋 Hola, soy Andrés Felipe Londoño Campos 💻 
 
 <p align="justify">
   Estudiante de Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana. Soy una persona         autodidacta, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como Java, Python y C#. Además cuento con conocimientos en frontend y backend   en React, JavaScript, HTML y CSS. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
 </p>
 <br>
-
+<!--FAVORITES LANGUAGES-->
 <h2 align="center">🛠 Mis Tecnologías y Lenguajes Favoritos </h2>
 <p align="center">
   Cuento con conocimientos en las siguientes tecnologías y lenguajes de programación que utilizo comúnmente para la elaboración de soluciones 🔍.
 </p>
 <br>
-
+<!--LOGS-->
 <div align="center">
 <img height="50" src="https://www.gmkfreelogos.com/logos/J/img/Java-3.gif">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -45,7 +46,7 @@
 </div>
 
 <br>
-  
+ <!--CONTACT-->
 <h2 align="center">📫 Contacto </h2>
 <p align="center">
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
@@ -74,7 +75,7 @@
     </a>
   </p>
   
-
+<!--ACTIVITY-->
 <h2 align="center">📈 Mi Actividad </h2>
 
 <div align="center">
