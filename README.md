@@ -63,6 +63,10 @@
         <img loading="lazy" src="https://www.pngmart.com/files/7/E-Mail-PNG-Clipart.png" 
     height="50">
     </a> 
+  <a href="https://discordapp.com/users/ApidriuC" target="_blank">
+        <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" 
+    height="50"> &nbsp;&nbsp;
+    </a>
   </p>
   
 
