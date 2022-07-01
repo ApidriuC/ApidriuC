@@ -22,13 +22,13 @@ Actualmente estoy realizando mis prácticas empresariales en "Sistemas y Computa
   
 Este es mi repositorio personal y aquí tengo algunos proyectos que he realizado por mi cuenta, espero disfrutes del contenido que he realizado.
 </p>
-<br>
+
 <!--FAVORITES LANGUAGES-->
 <h2 align="center">🛠 Mis Tecnologías y Lenguajes Favoritos </h2>
 <p align="center">
   Cuento con conocimientos en las siguientes tecnologías y lenguajes de programación que utilizo comúnmente para la elaboración de soluciones 🔍.
 </p>
-<br>
+
 <!--LOGS-->
 <div align="center">
 <img height="50" src="https://www.gmkfreelogos.com/logos/J/img/Java-3.gif">
