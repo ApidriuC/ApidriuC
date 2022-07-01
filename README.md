@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<h2 align="center"> Mis Tecnologías y Lenguajes Favoritos 🛠</h2>
+<h2 align="center">🛠 Mis Tecnologías y Lenguajes Favoritos 🛠</h2>
 <p align="center">
   Cuento con conocimientos en las siguientes tecnologías y lenguajes de programación que utilizo comúnmente para la elaboración de soluciones 🔍.
 </p>
@@ -40,7 +40,7 @@
 </div>
 <br>
 
-<h2 align="center"> Mi Actividad 📈</h2>
+<h2 align="center">📈 Mi Actividad 📈</h2>
 
 <div align="center">
   
@@ -50,7 +50,7 @@
 </div>
 <br>
 
-<h2 align="center"> Contacto 📩 </h2>
+<h2 align="center">📩 Contacto 📩</h2>
 <p align="center">
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
 </p>
