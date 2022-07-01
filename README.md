@@ -22,7 +22,7 @@ Actualmente estoy realizando mis prácticas empresariales en "Sistemas y Computa
   
 Este es mi repositorio personal y aquí tengo algunos proyectos que he realizado por mi cuenta, espero disfrutes del contenido que he realizado.
 
-También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">🚀 página web</a> página web donde poco a poco podrás conocerme un poco más.
+También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">🚀 **página web** </a> página web donde poco a poco podrás conocerme un poco más.
 </p>
 
 <!--FAVORITES LANGUAGES-->
