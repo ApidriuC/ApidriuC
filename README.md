@@ -15,14 +15,14 @@
 # <img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right /> 👋 Hola, soy Andrés Felipe Londoño Campos 💻 
 
 <p align="justify">
-  Estudiante de <b>Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana</b>. Soy una persona         autodidacta 📚, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como **Java, Python y C#** ⚙️. Además cuento con conocimientos en frontend y backend   en **React, JavaScript, HTML y CSS**. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
+  Estudiante de <b>Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana</b>. Soy una persona         autodidacta 📚, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como <b>Java, Python y C#</b> ⚙️. Además cuento con conocimientos en frontend y backend   en <b>React, JavaScript, HTML y CSS</b>. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
 </p>
 <p align="justify">
-Actualmente estoy realizando mis prácticas empresariales en **"Sistemas y Computadores S.A"** para completar mi requisito de grado. Esta empresa brinda soluciones de software principalmente para entidades gubernamentales 🔍. Me encuentro desempeñando el cargo de **implementador y desarrollador de software** para el proyecto de publicaciones que asocia todos los proyectos de la entidad. Todo esto siguiendo la metodología DevOps para lograr una mayor organización en el equipo de trabajo 🛠.
+Actualmente estoy realizando mis prácticas empresariales en <b>"Sistemas y Computadores S.A"</b> para completar mi requisito de grado. Esta empresa brinda soluciones de software principalmente para entidades gubernamentales 🔍. Me encuentro desempeñando el cargo de <b>implementador y desarrollador de software</b> para el proyecto de publicaciones que asocia todos los proyectos de la entidad. Todo esto siguiendo la metodología DevOps para lograr una mayor organización en el equipo de trabajo 🛠.
   
 Este es mi repositorio personal y aquí tengo algunos proyectos que he realizado por mi cuenta, espero disfrutes del contenido que he realizado.
 
-También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">🚀 **página web**</a> página web donde poco a poco podrás conocerme un poco más.
+También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">🚀 <b>página web</b></a> página web donde poco a poco podrás conocerme un poco más.
 </p>
 
 <!--FAVORITES LANGUAGES-->
