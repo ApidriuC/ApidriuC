@@ -17,6 +17,9 @@
 <p align="justify">
   Estudiante de Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana. Soy una persona         autodidacta, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como Java, Python y C#. Además cuento con conocimientos en frontend y backend   en React, JavaScript, HTML y CSS. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
 </p>
+<p align="justify">
+  Estudiante de Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana. Soy una persona         autodidacta, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como Java, Python y C#. Además cuento con conocimientos en frontend y backend   en React, JavaScript, HTML y CSS. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
+</p>
 <br>
 <!--FAVORITES LANGUAGES-->
 <h2 align="center">🛠 Mis Tecnologías y Lenguajes Favoritos </h2>
