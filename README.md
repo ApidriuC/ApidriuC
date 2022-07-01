@@ -31,18 +31,22 @@
 </div>
 <br>
 
-<p align="center">
-<!--SNAKE-->
-   <img src="https://github.com/ApidriuC/ApidriuC/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<br>
-
-
 <h2 align="center"> Contacto 📩 </h2>
 
 - [Portafolio Web](https://portafolio-andres-londono.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/)
 - [Correo](mailto:andresfloncam@gmail.com)
+
+<br>
+
+<p align="center">
+<!--SNAKE-->
+   <img src="https://github.com/ApidriuC/ApidriuC/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
+
+
 
 
 
