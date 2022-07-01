@@ -33,7 +33,17 @@
 <br>
 
 <h2 align="center"> Contacto 📩 </h2>
+<p align="center">
+  Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
+</p>
 
+<p align="center">
+    <a href="https://joseluisgs.github.io/" target="_blank">
+        <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
+    height="50">
+    </a>
+  </p>
+  
 - [Portafolio Web](https://portafolio-andres-londono.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/)
 - [Correo](mailto:andresfloncam@gmail.com)
