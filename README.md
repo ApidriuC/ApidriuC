@@ -74,8 +74,6 @@
     </a> 
   </p>
 
-<br>
-
 <p align="center">
 <!--SNAKE-->
    <img src="https://github.com/ApidriuC/ApidriuC/blob/main/github-contribution-grid-snake.svg" alt="snake">
