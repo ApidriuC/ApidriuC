@@ -1,6 +1,11 @@
 <h1 align="center"> System.out.println(“HOLA MUNDO”);  
 </h1>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ApidriuC&label=Profile%20views&color=42b983&style=flat" alt="ApidriuC-github" />
+  <img src="https://img.shields.io/github/followers/ApidriuC?style=social" alt="ApidriuC-github" />
+</p>
+
 > “Programa siempre tu código como si el tipo que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. Martin Goldin
 
 <hr>
