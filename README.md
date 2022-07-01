@@ -16,7 +16,7 @@
 <code><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 </div>
   
-<hr>
+
 <h2 align="center"> Mi Actividad 📈</h2>
 
 <div align="center">
