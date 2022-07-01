@@ -50,8 +50,9 @@ También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.
 <img height="50" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png"> 
 <img height="50" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png"> 
 <img height="50" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"> 
-<img height="50" src="https://flyclipart.com/thumbs/mysql-logo-mysql-1154602.png"> 
 <img height="50" src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png"> 
+<img height="50" src="https://flyclipart.com/thumbs/mysql-logo-mysql-1154602.png"> 
+
 
 </div>
 
