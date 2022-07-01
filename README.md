@@ -36,13 +36,14 @@ También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.
 <img height="50" src="https://www.gmkfreelogos.com/logos/J/img/Java-3.gif">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="50" src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw">
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> 
 <img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 <img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
 <img height="50" src="https://distreau.com/github.svg"> 
 </div>
 <div align="center">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="50" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png"> 
 <img height="50" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667">
 <img height="50" src="https://flyclipart.com/thumbs/mysql-logo-mysql-1154602.png"> 
@@ -50,7 +51,7 @@ También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.
 <img height="50" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"> 
 <img height="50" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png"> 
 <img height="50" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"> 
-<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> 
+
 </div>
 
 <br>
