@@ -19,7 +19,7 @@
 <code><img height="50" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ"></code>
 <code><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 </div>
-  
+<br>
 
 <h2 align="center"> Mi Actividad 📈</h2>
 
@@ -29,13 +29,13 @@
 | ------------- | ------------- |
   
 </div>
-
+<br>
 
 <p align="center">
 <!--SNAKE-->
    <img src="https://github.com/ApidriuC/ApidriuC/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
+<br>
 
 
 <h2 align="center"> Contacto 📩 </h2>
