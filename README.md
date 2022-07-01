@@ -1,8 +1,7 @@
 <h1 align="center"> System.out.println(“HOLA MUNDO”);  
-  <br>💻
 </h1>
 
-# <img src="./octogato.png" width=15% align=right /> 👋 Hola, Andrés Felipe Londoño Campos 📚 
+# <img src="./octogato.png" width=15% align=right /> 👋 Hola, Andrés Felipe Londoño Campos 💻 
 
 <p align="justify">
   Estudiante de Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana. Soy una persona         autodidacta, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como Java, Python y C#. Además cuento con conocimientos en frontend y backend   en React, JavaScript, HTML y CSS. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
