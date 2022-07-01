@@ -42,10 +42,18 @@
         <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
     height="50">
     </a> &nbsp;&nbsp;
+  <a href="https://github.com/ApidriuC" target="_blank">
+        <img loading="lazy" src="https://distreau.com/github.svg" 
+    height="50">
+    </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
     </a> &nbsp;&nbsp;
+  <a href="https://github.com/joseluisgs" target="_blank">
+        <img loading="lazy" src="https://www.profesionalreview.com/wp-content/uploads/2017/05/3-extensiones-para-ser-m%C3%A1s-productivo-con-Gmail-00.jpg" 
+    height="50">
+    </a> 
   </p>
   
 
