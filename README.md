@@ -1,7 +1,7 @@
 <h1 align="center"> System.out.println(“HOLA MUNDO”);  
 </h1>
 
-# <img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right /> 👋 Hola, Soy Andrés Felipe Londoño Campos 💻 
+# <img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right /> 👋 Hola, soy Andrés Felipe Londoño Campos 💻 
 
 <p align="justify">
   Estudiante de Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana. Soy una persona         autodidacta, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como Java, Python y C#. Además cuento con conocimientos en frontend y backend   en React, JavaScript, HTML y CSS. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
@@ -31,11 +31,13 @@
    <img src="https://github.com/ApidriuC/ApidriuC/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+<p align="center">
+
 ## Contacto 📩
 
 - [Portafolio Web](https://portafolio-andres-londono.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/)
 - [Correo](mailto:andresfloncam@gmail.com)
 
-
+</p>
 
