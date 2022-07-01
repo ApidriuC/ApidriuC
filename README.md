@@ -7,6 +7,8 @@
   Estudiante de Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana. Soy una persona         autodidacta, apasionada por aprender cosas     nuevas, me destaco por programar en lenguajes como Java, Python y C#. Además cuento con conocimientos en frontend y backend   en React, JavaScript, HTML y CSS. Quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
 </p>
 
+<h2 align="center"> Mis Tecnologías y Lenguajes Favoritos 🛠</h2>
+
 <div align="center">
 <code><img height="50" src="https://www.gmkfreelogos.com/logos/J/img/Java-3.gif"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
