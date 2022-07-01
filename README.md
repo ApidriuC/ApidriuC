@@ -26,7 +26,7 @@
 <code><img height="50" src="https://distreau.com/github.svg"></code>  
 <code><img height="50" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png"></code> 
   <code><img height="50" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667"></code> 
-  <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGtsoErcOI-tE5DBK7lvB_qvWzOi0BF7Gu5ThRfr6qaB_r0FxCZxSvlvKJlL5GvWGM5M&usqp=CAU"></code> 
+  <code><img height="50" src="https://img2.freepng.es/20180711/wxj/kisspng-computer-icons-microsoft-visual-studio-visual-prog-visual-studio-5b45d470975249.5102763215313030246198.jpg"></code> 
   
 </div>
 <br>
