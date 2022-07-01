@@ -24,7 +24,7 @@
 <code><img height="50" src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ"></code>
 <code><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 <code><img height="50" src="https://distreau.com/github.svg"></code>  
-<code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>  
+<code><img height="50" src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png"></code>  
 </div>
 <br>
 
