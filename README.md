@@ -34,6 +34,8 @@
 <img height="50" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"> 
   <img height="50" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png"> 
   <img height="50" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"> 
+    <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> 
+
 
   
   
