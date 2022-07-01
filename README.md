@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<h2 align="center">🛠 Mis Tecnologías y Lenguajes Favoritos 🛠</h2>
+<h2 align="center">🛠 Mis Tecnologías y Lenguajes Favoritos </h2>
 <p align="center">
   Cuento con conocimientos en las siguientes tecnologías y lenguajes de programación que utilizo comúnmente para la elaboración de soluciones 🔍.
 </p>
@@ -33,24 +33,12 @@
 <img height="50" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"> 
 <img height="50" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png"> 
 <img height="50" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"> 
- <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> 
-
-
-  
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> 
 </div>
+
 <br>
-
-<h2 align="center">📈 Mi Actividad 📈</h2>
-
-<div align="center">
   
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ApidriuC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApidriuC&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
-</div>
-<br>
-
-<h2 align="center">📩 Contacto 📩</h2>
+<h2 align="center">📫 Contacto </h2>
 <p align="center">
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
 </p>
@@ -73,6 +61,20 @@
     height="50">
     </a> 
   </p>
+  
+
+<br>
+
+<h2 align="center">📈 Mi Actividad </h2>
+
+<div align="center">
+  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ApidriuC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApidriuC&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
+</div>
+
+
 
 <p align="center">
 <!--SNAKE-->
