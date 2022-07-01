@@ -51,7 +51,7 @@
     height="50">
     </a> &nbsp;&nbsp;
   <a href="https://github.com/joseluisgs" target="_blank">
-        <img loading="lazy" src="https://www.profesionalreview.com/wp-content/uploads/2017/05/3-extensiones-para-ser-m%C3%A1s-productivo-con-Gmail-00.jpg" 
+        <img loading="lazy" src="https://www.pngmart.com/files/7/E-Mail-PNG-Clipart.png" 
     height="50">
     </a> 
   </p>
