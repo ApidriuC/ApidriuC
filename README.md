@@ -41,11 +41,11 @@
     <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">
         <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
     height="50">
-    </a>
+    </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
-    </a>
+    </a> &nbsp;&nbsp;
   </p>
   
 
