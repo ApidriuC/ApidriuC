@@ -76,7 +76,7 @@ También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
     </a> &nbsp;&nbsp;
-  <a href="https://github.com/joseluisgs" target="_blank">
+  <a href="mailto:andresfloncam@gmail.com" target="_blank">
         <img loading="lazy" src="https://www.pngmart.com/files/7/E-Mail-PNG-Clipart.png" 
     height="50">
     </a> 
