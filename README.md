@@ -37,14 +37,18 @@
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
 </p>
 
-<p align="center">
+<p align="center"> Mi Portafolio
     <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">
-        <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/124/124061.png" 
+        <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
+    height="50">
+    </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/" target="_blank">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
     </a>
   </p>
   
-- [Portafolio Web](https://portafolio-andres-londono.netlify.app/)
+
 - [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/)
 - [Correo](mailto:andresfloncam@gmail.com)
 
