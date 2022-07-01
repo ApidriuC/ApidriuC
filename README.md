@@ -55,10 +55,6 @@
     height="50">
     </a> 
   </p>
-  
-
-- [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/)
-- [Correo](mailto:andresfloncam@gmail.com)
 
 <br>
 
