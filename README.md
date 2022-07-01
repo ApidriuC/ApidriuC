@@ -74,7 +74,7 @@
   
 </div>
 
-
+> “Programa siempre tu código como si el tipo que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. Martin Goldin
 
 <p align="center">
 <!--SNAKE-->
