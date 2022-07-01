@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
-    <a href="https://joseluisgs.github.io/" target="_blank">
-        <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
+    <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">
+        <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/124/124061.png" 
     height="50">
     </a>
   </p>
