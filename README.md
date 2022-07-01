@@ -66,8 +66,6 @@
   </p>
   
 
-<br>
-
 <h2 align="center">📈 Mi Actividad </h2>
 
 <div align="center">
