@@ -10,6 +10,9 @@
 <br>
 
 <h2 align="center"> Mis Tecnologías y Lenguajes Favoritos 🛠</h2>
+<p align="center">
+  Cuento con conocimientos en las siguientes tecnologías y lenguajes de programación que utilizo comúnmente para la elaboración de soluciones 🔍.
+</p>
 <br>
 
 <div align="center">
