@@ -9,6 +9,7 @@
 <hr>
 
 <h2 align="center"> Mis Tecnologías y Lenguajes Favoritos 🛠</h2>
+<br>
 
 <div align="center">
 <code><img height="50" src="https://www.gmkfreelogos.com/logos/J/img/Java-3.gif"></code>
