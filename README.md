@@ -37,9 +37,9 @@ También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
 <img height="50" src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw">
+<img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
 <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> 
 <img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
-<img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
 <img height="50" src="https://distreau.com/github.svg"> 
 </div>
 <div align="center">
