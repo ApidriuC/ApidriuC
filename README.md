@@ -65,7 +65,7 @@ También puedes acceder a mi <a href="https://apidriuc.github.io/Portafolio_Ing_
 </p>
 
 <p align="center">
-    <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">
+    <a href="https://apidriuc.github.io/Portafolio_Ing_Andres/" target="_blank">
         <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
     height="50">
     </a> &nbsp;&nbsp;
