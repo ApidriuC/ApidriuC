@@ -23,7 +23,7 @@ Actualmente estoy realizando mis prácticas empresariales en <b>"Sistemas y Comp
   
 Este es mi repositorio personal y aquí tengo algunos proyectos que he realizado por mi cuenta, espero disfrutes del contenido que he realizado.
 
-También puedes acceder a mi <a href="https://portafolio-andres-londono.netlify.app/" target="_blank">🚀<b>página web</b></a> donde poco a poco podrás conocerme un poco más.
+También puedes acceder a mi <a href="https://apidriuc.github.io/Portafolio_Ing_Andres/" target="_blank">🚀<b>página web</b></a> donde poco a poco podrás conocerme un poco más.
 </p>
 
 <!--FAVORITES LANGUAGES-->
