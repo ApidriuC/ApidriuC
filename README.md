@@ -90,8 +90,6 @@ También puedes acceder a mi <a href="https://apidriuc.github.io/Portafolio_Ing_
 
 <hr>
 
-[![ApidriuC GitHub stats](https://github-readme-stats.vercel.app/api?username=ApidriuC)](https://github.com/ApidriuC/github-readme-stats)
-
 <h2 align="center">Console.WriteLine("We Enjoy Typing");</h2>
 
 <p align="center">
