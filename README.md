@@ -87,15 +87,6 @@ También puedes acceder a mi <a href="https://apidriuc.github.io/Portafolio_Ing_
     </a>
   </p>
   
-<!--ACTIVITY-->
-<h2 align="center">📈 Mi Actividad </h2>
-
-<div align="center">
-  
-| [![ApidriuC GitHub stats](https://github-readme-stats.vercel.app/api?username=ApidriuC)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
-  
-</div>
 
 <hr>
 
