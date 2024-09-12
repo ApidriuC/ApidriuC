@@ -23,7 +23,7 @@ Actualmente estoy trabajando para <b>"Sistemas y Computadores S.A"</b>, esta emp
   
 Este es mi repositorio personal y aquí tengo algunos proyectos que he realizado por mi cuenta, espero disfrutes del contenido que he realizado.
 
-También puedes acceder a mi <a href="https://apidriuc.github.io/Portafolio_Ing_Andres/" target="_blank">🚀<b>página web</b></a> donde poco a poco podrás conocerme un poco más.
+También puedes acceder a mi <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">🚀<b>página web</b></a> donde poco a poco podrás conocerme un poco más.
 </p>
 
 <!--FAVORITES LANGUAGES-->
@@ -65,7 +65,7 @@ También puedes acceder a mi <a href="https://apidriuc.github.io/Portafolio_Ing_
 </p>
 
 <p align="center">
-    <a href="https://apidriuc.github.io/Portafolio_Ing_Andres/" target="_blank">
+    <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">
         <img loading="lazy" src="https://joseluisgs.github.io/img/favicon.png" 
     height="50">
     </a> &nbsp;&nbsp;
