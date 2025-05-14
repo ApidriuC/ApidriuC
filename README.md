@@ -1,6 +1,6 @@
 <!--HEADER-->
-<h1 align="center"> System.out.println(“HOLA MUNDO”);  
-</h1>
+<h1 align="center"> System.out.println(“HOLA MUNDO”);</h1>
+
 <!--VISITS-->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ApidriuC&label=Profile%20views&color=42b983&style=flat" alt="ApidriuC-github" />
@@ -9,8 +9,6 @@
 
 > “Programa siempre tu código como si el tipo que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. Martin Goldin
 
-
-<hr>
 <!--INTRODUCTION-->
 
 # <img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right /> 👋 Hola, soy Andrés Felipe Londoño Campos 💻 
