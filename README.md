@@ -12,10 +12,12 @@
 
 <!--INTRODUCTION-->
 
-# <img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right /> 👋 Hola, soy Andrés Felipe Londoño Campos 💻 
+# 👋 Hola, soy Andrés Felipe Londoño Campos 💻 
 
 <p align="justify">
- Estudiante graduado de <b>Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana</b> de la seccional Bucaramanga / Santander / Colombia. Soy una persona         autodidacta , apasionada por aprender cosas     nuevas 📚. Por un lado, me destaco por programar en lenguajes como <b> C#, Java y Python</b>. Además cuento con conocimientos en <b>Front-End y Back-End   en JavaScript, JQuery, HTML, CSS y más</b> ⚙️. Los frameworks en los que principalmente me enfoco para realizar soluciones informáticas son .Net Framework y Core, React y Java NetBeans. En un futuro quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
+<img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right />
+Estudiante graduado de <b>Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana</b> de la seccional Bucaramanga / Santander / Colombia. Soy una persona         autodidacta , apasionada por aprender cosas     nuevas 📚. Por un lado, me destaco por programar en lenguajes como <b> C#, Java y Python</b>. Además cuento con conocimientos en <b>Front-End y Back-End   en JavaScript, JQuery, HTML, CSS y más</b> ⚙️. Los frameworks en los que principalmente me enfoco para realizar soluciones informáticas son .Net Framework y Core, React y Java NetBeans. En un futuro quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
+
 </p>
 <p align="justify">
 Actualmente estoy trabajando para <b>"Sistemas y Computadores S.A"</b>, esta empresa brinda soluciones de software principalmente para entidades gubernamentales 🔍. Me encuentro desempeñando el cargo de <b>implementador y desarrollador de software Full Stack</b> para el servicio del "Núcleo de Ingeniería", el cual asocia todos los proyectos de la entidad. En resumen, es un equipo de desarrollo especializado en dar apoyo a todos los proyectos de la compañía para dar cumpliento con tiempos de entrega urgentes. Todo esto siguiendo la <b>metodología DevOps</b> para lograr una mayor organización en el equipo de trabajo 🛠.
