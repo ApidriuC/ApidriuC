@@ -86,9 +86,6 @@ También puedes acceder a mi <a href="https://apidriuc.github.io/Developer-Portf
     height="50"> &nbsp;&nbsp;
     </a>
   </p>
-  
-
-<hr>
 
 <h2 align="center">Console.WriteLine("We Enjoy Typing");</h2>
 
