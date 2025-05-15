@@ -99,7 +99,7 @@ También puedes acceder a mi <a href="https://apidriuc.github.io/Developer-Portf
 
 <div align="center">
   <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="60" height="40" alt="myweb logo"  />
+    <img src="https://camo.githubusercontent.com/da0eeb92b98aed8478ebf7efc96f04117f23195649f6f25640b2cebe608158d3/68747470733a2f2f6a6f73656c75697367732e6769746875622e696f2f696d672f66617669636f6e2e706e67" width="60" height="40" alt="myweb logo"  />
   </a>
   <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
