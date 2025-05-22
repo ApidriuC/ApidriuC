@@ -86,7 +86,7 @@ También puedes acceder a mi <a href="https://apidriuc.github.io/Developer-Portf
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApidriuC&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ApidriuC&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&card_width=320" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ApidriuC&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
  <!--CONTACT-->
