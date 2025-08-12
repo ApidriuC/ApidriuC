@@ -19,7 +19,9 @@ Estudiante graduado de <b>Ingeniería de Sistemas e Informática de la Universid
 
 </p>
 <p align="justify">
-Actualmente estoy trabajando para <b>"Sistemas y Computadores S.A"</b>, esta empresa brinda soluciones de software principalmente para entidades gubernamentales 🔍. Me encuentro desempeñando el cargo de <b>implementador y desarrollador de software Full Stack</b> para el servicio del "Núcleo de Ingeniería", el cual asocia todos los proyectos de la entidad. En resumen, es un equipo de desarrollo especializado en dar apoyo a todos los proyectos de la compañía para dar cumpliento con tiempos de entrega urgentes. Todo esto siguiendo la <b>metodología DevOps</b> para lograr una mayor organización en el equipo de trabajo 🛠.
+Actualmente estoy trabajando para <b>"IAS Software"</b>, esta empresa brinda soluciones de software principalmente para entidades gubernamentales 🔍. Me encuentro desempeñando el cargo de <b>implementador y desarrollador de software Full Stack</b> para el servicio del "Núcleo de Ingeniería", el cual asocia todos los proyectos de la entidad. En resumen, es un equipo de desarrollo especializado en dar apoyo a todos los proyectos de la compañía para dar cumpliento con tiempos de entrega urgentes. Todo esto siguiendo la <b>metodología DevOps</b> para lograr una mayor organización en el equipo de trabajo 🛠.
+
+Actualmente trabajo en <b>"IAS Software"</b>, una empresa que ofrece soluciones tecnológicas y de desarrollo orientadas a organizaciones que buscan optimizar y agilizar sus procesos internos 🔍. Me desempeño como implementador y desarrollador de software Full Stack en un equipo especializado en brindar apoyo en diferentes proyectos de la compañía para garantizar entregas eficientes y de alta calidad. Todo nuestro trabajo se desarrolla siguiendo la metodología DevOps, lo que nos permite mantener una gestión ágil, colaborativa y orientada a resultados.
   
 Este es mi repositorio personal y aquí tengo algunos proyectos que he realizado por mi cuenta, espero disfrutes del contenido que he realizado.
 
