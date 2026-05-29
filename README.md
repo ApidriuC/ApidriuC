@@ -119,10 +119,9 @@
 |:---|:---|:---|
 | **[MercAnalyzer](https://github.com/ApidriuC/MercAnalyzer.Client)** | Plataforma inteligente de análisis de precios: compara productos en tiempo real mediante *scraping* automatizado. | `React` · `TypeScript` · `Node.js` · `Python` |
 | **[Stream For Labs](https://github.com/ApidriuC/Proyecto_Integrador_Stream_For_Labs)** | Sistema distribuido de **microservicios** para administrar, sincronizar y compartir archivos, fotos y video, con galería y streaming. | `NestJS` · `Node.js` · `React` · `TypeScript` |
-| **[API Template .NET 8](https://github.com/ApidriuC/API_TEMPLATE_NET8)** | Plantilla base profesional para construir APIs REST limpias y escalables en .NET 8. | `C#` · `.NET 8` |
-| **[AWS + Terraform](https://github.com/ApidriuC/AWS_TERRAFORM_EXAMPLE)** | Infraestructura como código: aprovisionamiento reproducible de recursos en AWS. | `AWS` · `Terraform` |
 | **[Bingo Risaralda](https://github.com/ApidriuC/Bingo_Alcaldia_Risaralda)** | Algoritmo para generar 2.000 cartones de bingo para un evento de la Alcaldía. | `Java` |
 | **[Developer Portfolio](https://github.com/ApidriuC/Developer-Portfolio)** | Mi portafolio personal: SPA bilingüe con temas claro/oscuro y animaciones. | `React` · `TypeScript` · `Tailwind` |
+| **[API Template .NET 8](https://github.com/ApidriuC/API_TEMPLATE_NET8)** | Plantilla base profesional para construir APIs REST limpias y escalables en .NET 8. | `C#` · `.NET 8` |
 
 > 💡 Muchos de mis proyectos son **privados o confidenciales** (de clientes o empresa) — como *EDESK Prisma*, *SyCaptcha* y *Dispensador Casa del Libro Total* — por lo que mi aporte allí se refleja como contribución a soluciones internas.
 
