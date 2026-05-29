@@ -23,8 +23,6 @@
   <br />— <b>Martin Golding</b>
 </blockquote>
 
-<br />
-
 <!-- =========================  ABOUT  ========================= -->
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> Sobre mí
 
@@ -38,74 +36,60 @@
 
 🛡️ En paralelo, curso la **Especialización en Seguridad Informática**, con el objetivo de fortalecer mi enfoque hacia el **desarrollo seguro** y la protección de las soluciones que construyo.
 
-<br />
-
 <p align="center">
   <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Conoce%20m%C3%A1s%20en%20mi%20Portafolio%20Web-42b983?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portafolio Web" height="42" />
   </a>
 </p>
 
-<br />
-
 <!-- =========================  TECH STACK  ========================= -->
 ## 🛠️ Stack Tecnológico
 
-<table align="center" width="90%">
-  <tr>
-    <td width="140" align="right"><b>Front-End</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td width="140" align="right"><b>Back-End</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-    </td>
-  </tr>
-  <tr>
-    <td width="140" align="right"><b>Bases de Datos</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-    </td>
-  </tr>
-  <tr>
-    <td width="140" align="right"><b>Cloud &amp; DevOps</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    </td>
-  </tr>
-  <tr>
-    <td width="140" align="right"><b>Herramientas</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-    </td>
-  </tr>
-</table>
+<p align="center"><b>🎨&nbsp; Front-End</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="42" alt="Angular" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="42" alt="jQuery" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="Bootstrap" />
+</p>
 
-<br />
+<p align="center"><b>⚙️&nbsp; Back-End</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="42" alt=".NET" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="42" alt="NestJS" />
+</p>
+
+<p align="center"><b>🗄️&nbsp; Bases de Datos</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" alt="SQL Server" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
+</p>
+
+<p align="center"><b>☁️&nbsp; Cloud &amp; DevOps</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="Azure" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+</p>
+
+<p align="center"><b>🧰&nbsp; Herramientas</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="42" alt="Visual Studio" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
+</p>
 
 <!-- =========================  SPECIALTIES  ========================= -->
 ## 🎯 En qué me especializo
@@ -119,8 +103,6 @@
 | 🤖 **Integración de IA** | Modelos predictivos en Python, integración con ChatGPT y soluciones de OCR y mejora de imágenes. |
 | 🧩 **Microservicios** | Webservices, autómatas y aplicaciones de escritorio con arquitecturas modulares y escalables. |
 
-<br />
-
 <!-- =========================  EXPERIENCE  ========================= -->
 ## 💼 Trayectoria
 
@@ -129,8 +111,6 @@
 | **2025 — Presente** | I.A.S Software | Desarrollador de Software Full Stack *(metodología DevOps)* |
 | **2022 — 2025** | Sistemas y Computadores S.A. | Desarrollador de Software Full Stack |
 | **2022** | Sistemas y Computadores S.A. | Practicante Desarrollador de Software |
-
-<br />
 
 <!-- =========================  PROJECTS  ========================= -->
 ## 🚀 Proyectos Destacados
@@ -152,8 +132,6 @@
   </a>
 </p>
 
-<br />
-
 <!-- =========================  EDUCATION  ========================= -->
 ## 📜 Formación & Certificaciones
 
@@ -167,27 +145,6 @@
 - `2023` 🎓 **Ingeniero de Sistemas e Informática** — Universidad Pontificia Bolivariana
 - `2023` 💻 **Certificación Misión TIC 2022** — Universidad Industrial de Santander (UIS)
 - `2023` 🔒 **Certificación VERACODE** — Seguridad de aplicaciones y mitigación de vulnerabilidades
-
-<br />
-
-<!-- =========================  SNAKE  ========================= -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<!-- Trofeos (opcional): la instancia pública de github-profile-trophy está limitada
-     por cuota. Descomenta el bloque cuando la instancia esté disponible o si
-     despliegas tu propia versión.
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ApidriuC&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
-</div>
--->
-
-<br />
 
 <!-- =========================  CONTACT  ========================= -->
 ## 📫 Contacto
@@ -221,4 +178,4 @@
 <!-- =========================  FOOTER  ========================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:42b983,100:0d1117" alt="footer" />
 
-<p align="center"><sub>© Andrés Felipe Londoño Campos — Gracias por visitar mi perfil ✨</sub></p>
+<p align="center"><sub>© Andrés Felipe Londoño Campos — Gracias por visitar mi perfil.</sub></p>
