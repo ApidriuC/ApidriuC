@@ -40,22 +40,20 @@
 
 <br />
 
-<table>
-  <tr><td>🌍 <b>Ubicación</b></td><td>Bucaramanga, Santander — Colombia</td></tr>
-  <tr><td>💼 <b>Rol actual</b></td><td>Desarrollador de Software Full Stack — I.A.S Software</td></tr>
-  <tr><td>🎓 <b>Formación</b></td><td>Ing. de Sistemas (UPB) · Esp. en Seguridad Informática <i>(en curso)</i></td></tr>
-  <tr><td>🗣️ <b>Idiomas</b></td><td>Español · Inglés</td></tr>
-  <tr><td>🚀 <b>Portafolio</b></td><td><a href="https://apidriuc.github.io/Developer-Portfolio/">apidriuc.github.io/Developer-Portfolio</a></td></tr>
-</table>
+<p align="center">
+  <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Conoce%20m%C3%A1s%20en%20mi%20Portafolio%20Web-42b983?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portafolio Web" height="42" />
+  </a>
+</p>
 
 <br />
 
 <!-- =========================  TECH STACK  ========================= -->
 ## 🛠️ Stack Tecnológico
 
-<table align="center">
+<table align="center" width="90%">
   <tr>
-    <td align="right"><b>Front-End</b></td>
+    <td width="140" align="right"><b>Front-End</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />&nbsp;&nbsp;
@@ -70,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Back-End</b></td>
+    <td width="140" align="right"><b>Back-End</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;&nbsp;
@@ -81,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Bases de Datos</b></td>
+    <td width="140" align="right"><b>Bases de Datos</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />&nbsp;&nbsp;
@@ -90,7 +88,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Cloud &amp; DevOps</b></td>
+    <td width="140" align="right"><b>Cloud &amp; DevOps</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />&nbsp;&nbsp;
@@ -99,7 +97,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Herramientas</b></td>
+    <td width="140" align="right"><b>Herramientas</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
@@ -159,32 +157,27 @@
 <!-- =========================  EDUCATION  ========================= -->
 ## 📜 Formación & Certificaciones
 
-- 🎓 **Ingeniero de Sistemas e Informática** — Universidad Pontificia Bolivariana
-- 🛡️ **Especialista en Seguridad Informática** — Universidad Pontificia Bolivariana *(en curso)*
-- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services *(en curso)*
-- 💻 **Certificación Misión TIC 2022** — Universidad Industrial de Santander (UIS)
-- 🔒 **Certificación VERACODE** — Seguridad de aplicaciones y mitigación de vulnerabilidades
+**🔄 En curso**
+
+- `2026` 🛡️ **Especialista en Seguridad Informática** — Universidad Pontificia Bolivariana
+- `2026` ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services
+
+**✅ Finalizadas**
+
+- `2023` 🎓 **Ingeniero de Sistemas e Informática** — Universidad Pontificia Bolivariana
+- `2023` 💻 **Certificación Misión TIC 2022** — Universidad Industrial de Santander (UIS)
+- `2023` 🔒 **Certificación VERACODE** — Seguridad de aplicaciones y mitigación de vulnerabilidades
 
 <br />
 
-<!-- =========================  GITHUB STATS  ========================= -->
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ApidriuC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=42b983&icon_color=42b983&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ApidriuC&layout=compact&hide_border=true&theme=github_dark&title_color=42b983&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ApidriuC&theme=github-dark&hide_border=true&background=0d1117&ring=42b983&fire=42b983&currStreakLabel=42b983" alt="streak" />
-</div>
-
 <!-- =========================  SNAKE  ========================= -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <!-- Trofeos (opcional): la instancia pública de github-profile-trophy está limitada
      por cuota. Descomenta el bloque cuando la instancia esté disponible o si
