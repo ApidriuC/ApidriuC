@@ -1,128 +1,231 @@
-<!--VISITS-->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ApidriuC&label=Profile%20views&color=42b983&style=flat" alt="ApidriuC-github" />
-  <img src="https://img.shields.io/github/followers/ApidriuC?style=social" alt="ApidriuC-github" />
-</p>
+<!-- =========================  HEADER  ========================= -->
+<a href="https://github.com/ApidriuC">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:42b983&text=Andr%C3%A9s%20Londo%C3%B1o&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%7C%20Seguridad%20Inform%C3%A1tica&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
+</a>
 
-<!--HEADER-->
-<h1 align="center"> System.out.println(“HOLA MUNDO”);</h1>
-
-> “Programa siempre tu código como si el tipo que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. - Martin Goldin
-
-<!--INTRODUCTION-->
-
-# 👋 Hola, soy Andrés Felipe Londoño Campos 💻 
-
-<p align="justify">
-<img src="https://github.com/ApidriuC/ApidriuC/blob/main/octogato.png" width=15% align=right />
-Estudiante graduado de <b>Ingeniería de Sistemas e Informática de la Universidad Pontificia Bolivariana</b> de la seccional Bucaramanga / Santander / Colombia. Soy una persona         autodidacta , apasionada por aprender cosas     nuevas 📚. Por un lado, me destaco por programar en lenguajes como <b> C#, Java y Python</b>. Además cuento con conocimientos en <b>Front-End y Back-End   en JavaScript, JQuery, HTML, CSS y más</b> ⚙️. Los frameworks en los que principalmente me enfoco para realizar soluciones informáticas son .Net Framework y Core, React y Java NetBeans. En un futuro quiero llegar a dominar Scrum y me gustaría trabajar para una empresa que valore mis habilidades y pueda seguir enriqueciendo mi       conocimiento.
-
-</p>
-<p align="justify">
-Actualmente trabajo en <b>"IAS Software"</b>, una empresa que ofrece soluciones tecnológicas y de desarrollo orientadas a organizaciones que buscan optimizar y agilizar sus procesos internos 🔍. Me desempeño como implementador y desarrollador de software Full Stack en un equipo especializado en brindar apoyo en diferentes proyectos de la compañía para garantizar entregas eficientes y de alta calidad. Todo nuestro trabajo se desarrolla siguiendo la metodología DevOps, lo que nos permite mantener una gestión ágil, colaborativa y orientada a resultados 🛠.
-  
-Este es mi repositorio personal y aquí tengo algunos proyectos que he realizado por mi cuenta, espero disfrutes del contenido que he realizado.
-
-También puedes acceder a mi <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">🚀<b>página web</b></a> donde poco a poco podrás conocerme un poco más.
-</p>
-
-<!--FAVORITES LANGUAGES-->
-<h2 align="center">🛠 Mis Tecnologías y Lenguajes Favoritos </h2>
+<!-- =========================  BADGES  ========================= -->
 <p align="center">
-  Cuento con conocimientos en las siguientes tecnologías y lenguajes de programación que utilizo comúnmente para la elaboración de soluciones 🔍.
+  <img src="https://komarev.com/ghpvc/?username=ApidriuC&label=Vistas%20al%20perfil&color=42b983&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ApidriuC?label=Seguidores&style=flat&color=42b983&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bucaramanga%2C%20Colombia-42b983?style=flat" alt="location" />
 </p>
+
+<!-- =========================  TYPING  ========================= -->
+<p align="center">
+  <a href="https://apidriuc.github.io/Developer-Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B983&center=true&vCenter=true&width=650&height=45&lines=Desarrollador+Full+Stack;Seguridad+Inform%C3%A1tica+(en+formaci%C3%B3n);.NET+%C2%B7+React+%C2%B7+Cloud+%C2%B7+IA;C%C3%B3digo+escalable%2C+seguro+y+mantenible" alt="roles" />
+  </a>
+</p>
+
+<!-- =========================  QUOTE  ========================= -->
+<blockquote align="center">
+  <em>“Programa siempre tu código como si el tipo que va a mantenerlo en el futuro fuera un psicópata violento que sabe dónde vives.”</em>
+  <br />— <b>Martin Golding</b>
+</blockquote>
+
+<br />
+
+<!-- =========================  ABOUT  ========================= -->
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> Sobre mí
+
+<img src="octogato.png" width="22%" align="right" alt="octocat" />
+
+**Ingeniero de Sistemas e Informática** egresado de la *Universidad Pontificia Bolivariana* (Bucaramanga, Colombia). Soy un desarrollador **Full Stack orientado a resultados**, con un marcado perfil autodidacta y un compromiso constante con la calidad del código y las buenas prácticas de ingeniería de software.
+
+🧩 Construyo aplicaciones web modernas de extremo a extremo: en el **Front-End** con React, Angular y TypeScript; en el **Back-End** con .NET, Node.js y NestJS, diseñando y consumiendo APIs REST. Gestiono bases de datos relacionales (**SQL Server, Oracle, PostgreSQL y MySQL**) priorizando rendimiento e integridad de los datos.
+
+☁️ Me especializo en **arquitecturas de microservicios**, **soluciones en la nube** (AWS y Azure) y en la entrega de software **seguro, escalable y mantenible**. Aplico metodologías ágiles y prácticas **DevOps**, e integro capacidades de **IA y OCR** cuando el problema lo requiere.
+
+🛡️ En paralelo, curso la **Especialización en Seguridad Informática**, con el objetivo de fortalecer mi enfoque hacia el **desarrollo seguro** y la protección de las soluciones que construyo.
+
+<br />
+
+<table>
+  <tr><td>🌍 <b>Ubicación</b></td><td>Bucaramanga, Santander — Colombia</td></tr>
+  <tr><td>💼 <b>Rol actual</b></td><td>Desarrollador de Software Full Stack — I.A.S Software</td></tr>
+  <tr><td>🎓 <b>Formación</b></td><td>Ing. de Sistemas (UPB) · Esp. en Seguridad Informática <i>(en curso)</i></td></tr>
+  <tr><td>🗣️ <b>Idiomas</b></td><td>Español · Inglés</td></tr>
+  <tr><td>🚀 <b>Portafolio</b></td><td><a href="https://apidriuc.github.io/Developer-Portfolio/">apidriuc.github.io/Developer-Portfolio</a></td></tr>
+</table>
+
+<br />
+
+<!-- =========================  TECH STACK  ========================= -->
+## 🛠️ Stack Tecnológico
+
+<table align="center">
+  <tr>
+    <td align="right"><b>Front-End</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Back-End</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Bases de Datos</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Herramientas</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- =========================  SPECIALTIES  ========================= -->
+## 🎯 En qué me especializo
+
+| | |
+|---|---|
+| 🌐 **Desarrollo Web** | Aplicaciones con .NET y React + TypeScript, incluida la creación de un *captcha* propio para detectar interacciones automatizadas o maliciosas. |
+| 🔌 **APIs & Integraciones** | Desarrollo y consumo de APIs REST en .NET y Node.js, para una comunicación distribuida y segura entre servicios. |
+| 🗄️ **Bases de Datos** | Scripts, vistas, funciones, procedimientos almacenados y optimización de consultas en SQL Server y Oracle. |
+| ☁️ **Cloud & Despliegue** | Gestión de recursos y despliegue de aplicaciones en AWS y Azure. |
+| 🤖 **Integración de IA** | Modelos predictivos en Python, integración con ChatGPT y soluciones de OCR y mejora de imágenes. |
+| 🧩 **Microservicios** | Webservices, autómatas y aplicaciones de escritorio con arquitecturas modulares y escalables. |
+
+<br />
+
+<!-- =========================  EXPERIENCE  ========================= -->
+## 💼 Trayectoria
+
+| Periodo | Empresa | Rol |
+|:---|:---|:---|
+| **2025 — Presente** | I.A.S Software | Desarrollador de Software Full Stack *(metodología DevOps)* |
+| **2022 — 2025** | Sistemas y Computadores S.A. | Desarrollador de Software Full Stack |
+| **2022** | Sistemas y Computadores S.A. | Practicante Desarrollador de Software |
+
+<br />
+
+<!-- =========================  PROJECTS  ========================= -->
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|:---|:---|:---|
+| **[MercAnalyzer](https://github.com/ApidriuC/MercAnalyzer.Client)** | Plataforma inteligente de análisis de precios: compara productos en tiempo real mediante *scraping* automatizado. | `React` · `TypeScript` · `Node.js` · `Python` |
+| **[Stream For Labs](https://github.com/ApidriuC/Proyecto_Integrador_Stream_For_Labs)** | Sistema distribuido de **microservicios** para administrar, sincronizar y compartir archivos, fotos y video, con galería y streaming. | `NestJS` · `Node.js` · `React` · `TypeScript` |
+| **[API Template .NET 8](https://github.com/ApidriuC/API_TEMPLATE_NET8)** | Plantilla base profesional para construir APIs REST limpias y escalables en .NET 8. | `C#` · `.NET 8` |
+| **[AWS + Terraform](https://github.com/ApidriuC/AWS_TERRAFORM_EXAMPLE)** | Infraestructura como código: aprovisionamiento reproducible de recursos en AWS. | `AWS` · `Terraform` |
+| **[Bingo Risaralda](https://github.com/ApidriuC/Bingo_Alcaldia_Risaralda)** | Algoritmo para generar 2.000 cartones de bingo para un evento de la Alcaldía. | `Java` |
+| **[Developer Portfolio](https://github.com/ApidriuC/Developer-Portfolio)** | Mi portafolio personal: SPA bilingüe con temas claro/oscuro y animaciones. | `React` · `TypeScript` · `Tailwind` |
+
+> 💡 Muchos de mis proyectos son **privados o confidenciales** (de clientes o empresa) — como *EDESK Prisma*, *SyCaptcha* y *Dispensador Casa del Libro Total* — por lo que mi aporte allí se refleja como contribución a soluciones internas.
+
+<p align="center">
+  <a href="https://github.com/ApidriuC?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20m%C3%A1s%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="more repos" />
+  </a>
+</p>
+
+<br />
+
+<!-- =========================  EDUCATION  ========================= -->
+## 📜 Formación & Certificaciones
+
+- 🎓 **Ingeniero de Sistemas e Informática** — Universidad Pontificia Bolivariana
+- 🛡️ **Especialista en Seguridad Informática** — Universidad Pontificia Bolivariana *(en curso)*
+- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services *(en curso)*
+- 💻 **Certificación Misión TIC 2022** — Universidad Industrial de Santander (UIS)
+- 🔒 **Certificación VERACODE** — Seguridad de aplicaciones y mitigación de vulnerabilidades
+
+<br />
+
+<!-- =========================  GITHUB STATS  ========================= -->
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" alt="jquery logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ApidriuC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=42b983&icon_color=42b983&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ApidriuC&layout=compact&hide_border=true&theme=github_dark&title_color=42b983&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top languages" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApidriuC&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ApidriuC&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ApidriuC&theme=github-dark&hide_border=true&background=0d1117&ring=42b983&fire=42b983&currStreakLabel=42b983" alt="streak" />
 </div>
 
- <!--CONTACT-->
-<h2 align="center">📫 Contacto </h2>
-<p align="center">
-  Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
-</p>
+<!-- =========================  SNAKE  ========================= -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ApidriuC/ApidriuC/output/github-contribution-grid-snake.svg" />
+</picture>
 
+<!-- Trofeos (opcional): la instancia pública de github-profile-trophy está limitada
+     por cuota. Descomenta el bloque cuando la instancia esté disponible o si
+     despliegas tu propia versión.
 <div align="center">
-  <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">
-    <img src="https://camo.githubusercontent.com/da0eeb92b98aed8478ebf7efc96f04117f23195649f6f25640b2cebe608158d3/68747470733a2f2f6a6f73656c75697367732e6769746875622e696f2f696d672f66617669636f6e2e706e67" width="40" alt="myweb logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/andresfloncam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerank logo"  />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ApidriuC&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+</div>
+-->
+
+<br />
+
+<!-- =========================  CONTACT  ========================= -->
+## 📫 Contacto
+
+<p align="center">Cualquier cosa que necesites, házmelo saber por si puedo ayudarte 💬</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-londo%C3%B1o-campos-b03741222/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/apidriuc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  <a href="https://github.com/ApidriuC" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://apidriuc.github.io/Developer-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-42b983?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
   <a href="mailto:andresfloncam@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:alondono@syc.com.co" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="60" height="40" alt="microsoft-outlook logo"  />
+  <a href="https://www.hackerrank.com/profile/andresfloncam" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://discordapp.com/users/ApidriuC" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</div>
+  <a href="https://www.instagram.com/apidriuc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
+<!-- =========================  FOOTER  ========================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:42b983,100:0d1117" alt="footer" />
 
-
-
-
-
-
-
+<p align="center"><sub>© Andrés Felipe Londoño Campos — Gracias por visitar mi perfil ✨</sub></p>
