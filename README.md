@@ -117,6 +117,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |:---|:---|:---|
+| **[payment-checkout](https://github.com/ApidriuC/payment-checkout)** | Implementación de un sistema de checkout aplicando arquitectura hexagonal, pruebas automatizadas y despliegue en la nube. | `React` · `TypeScript` · `NestJS` · `PostgreSQL` . `Terraform` |
 | **[MercAnalyzer](https://github.com/ApidriuC/MercAnalyzer.Client)** | Plataforma inteligente de análisis de precios: compara productos en tiempo real mediante *scraping* automatizado. | `React` · `TypeScript` · `Node.js` · `Python` |
 | **[Stream For Labs](https://github.com/ApidriuC/Proyecto_Integrador_Stream_For_Labs)** | Sistema distribuido de **microservicios** para administrar, sincronizar y compartir archivos, fotos y video, con galería y streaming. | `NestJS` · `Node.js` · `React` · `TypeScript` |
 | **[Bingo Risaralda](https://github.com/ApidriuC/Bingo_Alcaldia_Risaralda)** | Algoritmo para generar 2.000 cartones de bingo para un evento de la Alcaldía. | `Java` |
