@@ -80,7 +80,7 @@
 <p align="center"><b>☁️&nbsp; Cloud &amp; DevOps</b></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="Azure" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="42" alt="AWS" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
 </p>
@@ -122,7 +122,8 @@
 | **[Stream For Labs](https://github.com/ApidriuC/Proyecto_Integrador_Stream_For_Labs)** | Sistema distribuido de **microservicios** para administrar, sincronizar y compartir archivos, fotos y video, con galería y streaming. | `NestJS` · `Node.js` · `React` · `TypeScript` |
 | **[Bingo Risaralda](https://github.com/ApidriuC/Bingo_Alcaldia_Risaralda)** | Algoritmo para generar 2.000 cartones de bingo para un evento de la Alcaldía. | `Java` |
 | **[Developer Portfolio](https://github.com/ApidriuC/Developer-Portfolio)** | Mi portafolio personal: SPA bilingüe con temas claro/oscuro y animaciones. | `React` · `TypeScript` · `Tailwind` |
-| **[API Template .NET 8](https://github.com/ApidriuC/API_TEMPLATE_NET8)** | Plantilla base profesional para construir APIs REST limpias y escalables en .NET 8. | `C#` · `.NET 8` |
+| **[Limpiador de Disco](https://github.com/ApidriuC/LimpiadorDisco)** | App de escritorio para Windows 11 que libera espacio: borra `node_modules`, `bin`/`obj` de repos sin uso, temporales, papelera y cachés, sin tocar nada versionado en git. | `C#` · `.NET 8` · `WPF` |
+| **[Batería de Periféricos](https://github.com/ApidriuC/BateriaPerifericos)** | Muestra la batería de mi mouse y audífonos inalámbricos dentro de la barra de tareas de Windows, comunicándose por HID con protocolos obtenidos por ingeniería inversa. | `C#` · `.NET 8` · `Win32` · `HID` |
 
 > 💡 Muchos de mis proyectos son **privados o confidenciales** (de clientes o empresa) — como *EDESK Prisma*, *SyCaptcha* y *Dispensador Casa del Libro Total* — por lo que mi aporte allí se refleja como contribución a soluciones internas.
 
